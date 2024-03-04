@@ -1,5 +1,5 @@
-<H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
 <H1 ALIGN=CENTER> Experiment 1</H1>
+<H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
 
 ### Name: Meenakshi M
 ### Register No: 212221230057
